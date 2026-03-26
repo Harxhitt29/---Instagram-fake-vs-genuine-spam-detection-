@@ -24,10 +24,7 @@ This project develops a machine learning system to classify Instagram accounts a
 ├── src/                 # Source code  
 ├── README.md            # Project documentation  
 
-## ⚙️ Installation  
-git clone https://github.com/your-username/instagram-spam-detection.git  
-cd instagram-spam-detection  
-pip install -r requirements.txt  
+
 
 ## ▶️ Usage  
 python main.py  
@@ -52,4 +49,4 @@ python main.py
 - Web app deployment  
 
 ## 👨‍💻 Author  
-Your Name
+Harshit 
